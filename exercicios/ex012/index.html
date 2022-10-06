@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Videos com HTML5</title>
+</head>
+<body>
+    <h1>Inserindo vídeos hospedados localmente</h1>
+    <p>Este video está hospedado no meu próprio servidor.</p>
+    <video width="650px" controls poster="imagens/limoes-capa.png">
+        <source src="midia/meu-video-m4v.m4v" type="video/m4v">
+        <source src="midia/meu-video-webm.webm" type="video/webm">
+        <source src="midia/meu-video-ogv.ogv" type="video/ogg">
+        <p>Seu navegador não tem compatibilidade com a reprodução de videos</p>
+    </video>
+
+    <h1>Inserindo videos do Vimeo</h1>
+    <iframe src="https://player.vimeo.com/video/317919844?h=f3ae4f1551&color=ff9933&portrait=0" width="650" height="366" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+    <h1>Inserindo videos do YouTube</h1>
+    <iframe width="650" height="315" src="https://www.youtube.com/embed/-oYMo8k22Vw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>
