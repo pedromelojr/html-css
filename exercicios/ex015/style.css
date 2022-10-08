@@ -1,5 +1,4 @@
-charset "UTF-8";
-<style>
+@charset "UTF-8";
 body {
     background-color: rgb(255, 153, 0);
     font-family: 'Courier New', Courier, monospace;
@@ -8,10 +7,11 @@ body {
 h1 {
     color: dimgray;
 }
+
 h2 {
     color: rgb(255, 17, 0);
 }
+
 p {
     text-align: justify;
 }
-</style>
