@@ -3,4 +3,4 @@
 
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-* [Execute o desafio 01](https://pedromelojr.github.io/html-css/desafios/d001/index.html)
+* [Execute os exercícios](https://pedromelojr.github.io/html-css/tree/main/exercicios/index.html)
