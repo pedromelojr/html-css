@@ -1,4 +1,4 @@
-# HTML e CSS
+# html-css
  Curso de HTML5 e CSS3 do Gustavo Guanabara
 
  <img align="right" src="html5.png" width="200">
