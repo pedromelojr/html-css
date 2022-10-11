@@ -1,7 +1,7 @@
 # html-css
  Curso de HTML5 e CSS3 do Gustavo Guanabara
 
- <img align="right" src="html5.png" width="200">
+ <img align="right" src="html5.png" width="300">
 
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios! 
 
